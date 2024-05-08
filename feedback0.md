@@ -58,7 +58,7 @@ Vorrei tornare a parlare di "killing game" e "semestre di omicidi", perché ness
 
 Innanzitutto, nel nome giapponese del "killing game" non si fa mai riferimento a un gioco: _koroshiai_ significa semplicemente "uccidersi a vicenda". A chiamarlo "gioco" sono di solito i personaggi più sadici, tipo Togami. L'utilizzo di "game" è fuorviante e poco azzeccato, almeno a mio parere. La traduzione di All-Ice Team, "arena (accademica)", mi sembra più adatta: l'arena è il luogo dove avvengono i combattimenti tra gladiatori, cioè spettacoli in cui ci si uccide a vicenda, come i _koroshiai_.
 
-Quanto al "semestre di omicidi", oltre all'incoerenza _koroshiai_→_di omicidi_, vorrei ricordarvi che l'anno scolastico di una scuola superiore giapponese è diviso in tre _gakki_, nessuno dei quali è un "semestre": infatti, due sono quadrimestri e uno è un trimestre (FR traduce *gakki* con "anno scolastico"). In Italia, invece, un anno delle superiori è diviso in due quadrimestri (o, in alcune scuole, in un trimestre e un pentamestre).
+Quanto al "semestre di omicidi", oltre all'incoerenza _koroshiai_ → "di omicidi", vorrei ricordarvi che l'anno scolastico di una scuola superiore giapponese è diviso in tre _gakki_, nessuno dei quali è un "semestre": infatti, due sono quadrimestri e uno è un trimestre (FR traduce *gakki* con "anno scolastico"). In Italia, invece, un anno delle superiori è diviso in due quadrimestri (o, in alcune scuole, in un trimestre e un pentamestre).
 
 Ci sarebbe bisogno di un numero maggiore di precedenti per creare un nome coerente con quello delle altre "arene": purtroppo, a causa dei problemi di coerenza in Danganronpa 2, questa traduzione non può fare testo a questo riguardo. Per il momento, suggerirei "arena" (o, laddove opportuno, una perifrasi con il verbo "uccidersi l'un l'altro" o sim.) per _koroshiai_ (_killing game_) in generale.
 
@@ -71,7 +71,7 @@ Il punto 3. è particolarmente importante perché, a differenza degli altri due,
 
 Questa stessa contrapposizione si mantiene in inglese: *Killing School **Life*** vs. *Killing School **Semester***.
 
-Tuttavia, questa distinzione si perderebbe, o perlomeno si affievolirebbe, in italiano, perché il nome italiano della *koroshiai gakuen seikatsu*, è "arena accademica". Persa la contrapposizione tra "vita scolastica" e "periodo di tempo scolastico", tutti gli altri aspetti accomunano *gakki* a *gakuen seikatsu*, rendendolo un semplice sinonimo.
+Tuttavia, questa distinzione si perderebbe, o perlomeno si affievolirebbe, in italiano, perché il nome italiano della *koroshiai gakuen seikatsu* è "arena accademica". Persa la contrapposizione tra "vita scolastica" e "periodo di tempo scolastico", tutti gli altri aspetti accomunano *gakki* a *gakuen seikatsu*, rendendolo un semplice sinonimo.
 
 P.Q.M., ci sono tre proposte *coerenti* che mi sento di avanzare:
 

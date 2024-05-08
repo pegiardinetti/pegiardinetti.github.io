@@ -25,7 +25,7 @@ Le parole che andrebbero scritte con un uso diverso delle maiuscole sono (scritt
 
 Ho segnato solo quelli che secondo me non andrebbero cambiati se non per le maiuscole.
 
-All-Ice Team scrive *Processo di classe*, ma è errato perché non è un nome proprio (in quanto non si riferisce a un ente individuale): peraltro, anche in inglese a volte viene scritto *class trial*, quindi non c'è proprio motivo di usare le maiuscole.
+All-Ice Team scrive *Processo di classe*, ma è errato perché non è un nome proprio (in quanto non si riferisce a un qualcosa di individuale): peraltro, anche in inglese a volte viene scritto *class trial*, quindi non c'è proprio motivo di usare le maiuscole.
 
 Riguardo agli altri, a parte le questioni di coerenza, ce ne sono due che non mi convincono:
 - "Lab di ricerca": non credo di aver mai sentito la parola "lab" utilizzata in italiano per indicare quelle aule che di solito vengono chiamate "laboratori". Credo che sarebbe meglio usare "laboratorio di ricerca" e semmai nell'interfaccia "Lab. di ricerca del(la) Super X Liceale" (con il punto che indica un'abbreviazione).
